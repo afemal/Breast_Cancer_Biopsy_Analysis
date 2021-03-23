@@ -1,4 +1,4 @@
-# Breast Cancer Biopsy Analysis
+# Breast Cancer Biopsy Data
 ## Exploratory Data Analysis
 
 ### Introduction
