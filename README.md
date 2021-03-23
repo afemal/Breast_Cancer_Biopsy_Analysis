@@ -31,7 +31,8 @@ Through my exploratory data analysis, I was able to predict a malignant diagnsis
 
 ### Navigation
 * Breast Cancer Biopsy Data: Data prep, EDA, and analysis conducted in Jupyter Notebook (Python) 
-* Presentation: Presntation of my findings.
+* Summary of Analysis: Summary of my findings. 
+* Presentation: Presentation of my findings.
 
 ### Resources
 This analysis utilizes supported code from Allen Downey's ThinkStats2 https://github.com/AllenDowney/ThinkStats2
